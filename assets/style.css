@@ -425,3 +425,18 @@ footer {
     height: 190px;
   }
 }
+
+.toast {
+  background-color: rgba(255, 100, 0, 0.5);
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 240px;
+  height: 75px;
+  border-left: 4px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  margin-top: 30px;
+}
